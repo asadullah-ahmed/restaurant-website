@@ -7,9 +7,9 @@
 }
 
 html, body {
-  line-height: 1.4;
-  font-weight: 300;
   font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  line-height: 1.4;
 }
 button {
   padding: 10px 20px;
